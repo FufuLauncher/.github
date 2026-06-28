@@ -5,7 +5,7 @@
 
 ### A third-party launcher for Genshin Impact, supporting game injection, auto check-in, and various utility features.
 
-#### [Official Website](https://philia093.xyz/)
+#### [Official Website](https://fu1.fun/)
 
 #### [Injection Module Open Source Address](https://github.com/CodeCubist/FufuLauncher.UnlockerIsland)
 
