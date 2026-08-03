@@ -36,5 +36,3 @@
 
 * Please ensure **.NET 8.0** or above and the **WebView2** runtime are installed before using this project.
 * This project is for learning and exchange purposes only. Please support the official game.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=CodeCubist/FufuLauncher&type=date&legend=top-left)](https://www.star-history.com/#CodeCubist/FufuLauncher&type=date&legend=top-left)
